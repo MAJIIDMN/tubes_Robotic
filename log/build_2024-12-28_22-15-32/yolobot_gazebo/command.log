@@ -1,0 +1,6 @@
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_gazebo -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_gazebo
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_gazebo -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_gazebo
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_gazebo -- -j8 -l8
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_gazebo -- -j8 -l8
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_gazebo
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_gazebo

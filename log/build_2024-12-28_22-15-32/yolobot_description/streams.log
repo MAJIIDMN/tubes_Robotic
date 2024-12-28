@@ -1,0 +1,52 @@
+[0.092s] Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_description -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_description
+[0.321s] -- The C compiler identification is GNU 11.4.0
+[0.796s] -- The CXX compiler identification is GNU 11.4.0
+[1.097s] -- Detecting C compiler ABI info
+[1.259s] -- Detecting C compiler ABI info - done
+[1.271s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.307s] -- Detecting C compile features
+[1.310s] -- Detecting C compile features - done
+[1.317s] -- Detecting CXX compiler ABI info
+[1.486s] -- Detecting CXX compiler ABI info - done
+[1.501s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.502s] -- Detecting CXX compile features
+[1.503s] -- Detecting CXX compile features - done
+[1.550s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.283s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.518s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[4.252s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.480s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.483s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.485s] -- Added test 'lint_cmake' to check CMake code style
+[4.486s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.488s] -- Added test 'xmllint' to check XML markup files
+[4.490s] -- Configuring done
+[4.498s] -- Generating done
+[4.502s] -- Build files have been written to: /home/majiidkun/tubes_uro/build/yolobot_description
+[4.514s] Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_description -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_description
+[4.518s] Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_description -- -j8 -l8
+[4.606s] Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_description -- -j8 -l8
+[4.613s] Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_description
+[4.633s] -- Install configuration: ""
+[4.634s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description//launch
+[4.636s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot_launch.launch.py
+[4.636s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description//launch/spawn_yolobot.py
+[4.637s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description//robot
+[4.638s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description//robot/yolobot.urdf
+[4.639s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/lib/yolobot_description/spawn_yolobot.py
+[4.641s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/ament_index/resource_index/package_run_dependencies/yolobot_description
+[4.643s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/ament_index/resource_index/parent_prefix_path/yolobot_description
+[4.645s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.sh
+[4.646s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/environment/ament_prefix_path.dsv
+[4.647s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/environment/path.sh
+[4.648s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/environment/path.dsv
+[4.648s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/local_setup.bash
+[4.649s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/local_setup.sh
+[4.650s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/local_setup.zsh
+[4.650s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/local_setup.dsv
+[4.651s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/package.dsv
+[4.652s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/ament_index/resource_index/packages/yolobot_description
+[4.652s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig.cmake
+[4.653s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/cmake/yolobot_descriptionConfig-version.cmake
+[4.654s] -- Installing: /home/majiidkun/tubes_uro/install/yolobot_description/share/yolobot_description/package.xml
+[4.661s] Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_description

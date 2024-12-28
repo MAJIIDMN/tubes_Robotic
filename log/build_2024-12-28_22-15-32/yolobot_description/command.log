@@ -1,0 +1,6 @@
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_description -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_description
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/majiidkun/tubes_uro/src/tubes_uro_description -DCMAKE_INSTALL_PREFIX=/home/majiidkun/tubes_uro/install/yolobot_description
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_description -- -j8 -l8
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/majiidkun/tubes_uro/build/yolobot_description -- -j8 -l8
+Invoking command in '/home/majiidkun/tubes_uro/build/yolobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_description
+Invoked command in '/home/majiidkun/tubes_uro/build/yolobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/majiidkun/tubes_uro/build/yolobot_description

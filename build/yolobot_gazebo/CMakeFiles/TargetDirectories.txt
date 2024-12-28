@@ -1,0 +1,9 @@
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/uninstall.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/yolobot_gazebo_uninstall.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/test.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/edit_cache.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/rebuild_cache.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/list_install_components.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/install.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/install/local.dir
+/home/majiidkun/tubes_uro/build/yolobot_gazebo/CMakeFiles/install/strip.dir

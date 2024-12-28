@@ -1,0 +1,15 @@
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+/home/majiidkun/tubes_uro/install/yolobot_recognition/share/yolobot_recognition/package.xml
